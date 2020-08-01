@@ -1,0 +1,175 @@
+body{
+	margin: 0 auto;
+	width: 960px;
+	position: relative;
+	font-family: Arial;
+}
+
+/*  */
+
+a {
+	color: #0088cc;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+p {
+	line-height: 150%;
+}
+
+em {
+	font-style: normal;
+}
+
+div.line {
+	line-height: 150%;
+}
+
+table {
+	border-top: 1px #999999 solid;
+	border-right: none;
+	border-bottom: 1px #999999 solid;
+	border-left: none;
+}
+
+th,
+td {
+	padding: 5px 10px 5px 0;
+	border-top: 1px #999999 dashed;
+	border-right: none;
+	border-bottom: none;
+	border-left: none;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.headerlink {
+	display: none;
+}
+
+.section {
+	padding-left: 20px;
+}
+
+.timetable td {
+	font-size : smaller;
+}
+
+/* sections */
+
+#pycon_logo a {
+	padding-top: 260px;
+	width: 160px;
+	height: 0;
+	display: block;
+	overflow: hidden;
+	position: absolute;
+	left: 0;
+	top: 30px;
+	background-image: url(image/apsc2013_pycon_logo.png);
+	background-repeat: no-repeat;
+}
+
+#date_venue {
+	width: 160px;
+	position: absolute;
+	left: 0;
+	top: 305px;
+	text-align: center;
+}
+
+#global_nav ul {
+	margin: 0;
+	padding: 0;
+	width: 770px;
+	position: absolute;
+	left: 190px;
+	top: 0;
+	background-color: #0d6fb8;
+}
+
+#global_nav li {
+	margin: 0;
+	padding: 0;
+	width: 100px;
+	list-style: none;
+	background-color: #fff;
+	float: left;
+}
+
+#global_nav li a {
+	margin: 0 1px 0 1px;
+	padding-top: 7px;
+	width: 98px;
+	height: 23px;
+	background-color: #0d6fb8;
+	color: #fff;
+	font-size: 12px;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+}
+
+#global_nav li a:hover {
+	text-decoration: underline;
+}
+
+#global_nav li.highlight a {
+	background-color: #f5d557;
+}
+
+#lang {
+	position: absolute;
+	right: 0px;
+	top: 35px;
+}
+
+#contents {
+	margin: 40px 0 20px 190px;
+	width: 520px;
+	float: left;
+}
+
+#sidebar {
+	margin: 70px 0 300px 30px;
+	padding: 0;
+	min-height: 210px;
+	width: 220px;
+	border-top: 2px #0d6fb8 solid;
+	border-bottom: 2px #0d6fb8 solid;
+	float: left;
+}
+
+#contents_without_sidebar {
+	margin: 40px 0 20px 190px;
+	width: 740px;
+	float: left;
+}
+
+#footer {
+	margin: 0 0 0 190px;
+	padding-top: 7px;
+	width: 770px;
+	height: 23px;
+	background-color: #f5d557;
+	font-size: 12px;
+	text-align: center;
+    clear: both;
+}
+
+
+div.toctree-wrapper {
+  display: none;
+}
+
+div.banner {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.lang-unavailable {
+	color: #ccc;
+}

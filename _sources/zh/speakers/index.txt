@@ -1,0 +1,11 @@
+:Author: pycon-organizers-jp
+:Date: 2013-06-06 10:47
+======
+ 講員
+======
+
+.. toctree::
+   :maxdepth: 1
+
+   cfp
+   keynote

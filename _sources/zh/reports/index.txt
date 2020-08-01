@@ -1,0 +1,15 @@
+:Author: pycon-organizers-jp
+:Date: 2013-09-19 12:50
+======
+ 報告
+======
+.. toctree::
+   :maxdepth: 1
+
+   photos
+   survey
+
+- Slides and Videos are in :doc:`../program/timetable`
+- :doc:`photos`
+- :doc:`survey`
+- Other reports as organizer reports, blogs, tweets are written by Japanese. Please referer :doc:`/ja/reports/index`

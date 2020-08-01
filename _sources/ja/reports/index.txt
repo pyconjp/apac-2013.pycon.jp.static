@@ -1,0 +1,19 @@
+:Author: pycon-organizers-jp
+:Date: 2013-09-19 12:50
+==========
+ 開催報告
+==========
+.. toctree::
+   :maxdepth: 1
+
+   blogs
+   togetter
+   photos
+   survey
+
+- 発表スライドとビデオへのリンクは :doc:`../program/timetable` にあります
+- :doc:`blogs`
+- :doc:`togetter`
+- :doc:`photos`
+- :doc:`survey`
+
